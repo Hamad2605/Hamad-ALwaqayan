@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project simply uses an AND gate to power A,B,C and D of the 7 segment display, and the other inputs power the remainder of the display.
 
 ## How to test
 
-Explain how to use your project
+Test each input and check which lights trigger on the 7-segment display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Just the 7 segment display and switches
